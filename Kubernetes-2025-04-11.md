@@ -1,4 +1,4 @@
-# K8s
+# Kubernetes
 
 Kubernetes学習用のメモ
 
